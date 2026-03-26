@@ -1,0 +1,2 @@
+-- Step 1: Start with a Question
+-- Question: How many songs does each artist have in the Spotify 2025 Wrapped Songs dataset?
